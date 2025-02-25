@@ -39,64 +39,64 @@ This command will move the starter code to the **app-example** directory and cre
 
 Here are some screenshots of the application:
 ### Login by Google Screen
-![Home Screen](./public/images-git/login.jpg)
+<img src="./public/images-git/login.jpg" alt="Login by Google Screen" width="300"/>
 
 ### Home Screen
-![Home Screen](./public/images-git/home.jpg)
+<img src="./public/images-git/home.jpg" alt="Home Screen" width="300"/>
 
 ### Category Screen
-![Home Screen](./public/images-git/category.jpg)
+<img src="./public/images-git/category.jpg" alt="Category Screen" width="300"/>
 
 ### Search Result Screen
-![Home Screen](./public/images-git/search-result.jpg)
+<img src="./public/images-git/search-result.jpg" alt="Search Result Screen" width="300"/>
 
 ### Favorite Screen
-![Home Screen](./public/images-git/favorite.jpg)
+<img src="./public/images-git/favorite.jpg" alt="Favorite Screen" width="300"/>
 
 ### Socials Media Screen
-![Home Screen](./public/images-git/socials-media.jpg)
+<img src="./public/images-git/socials-media.jpg" alt="Socials Media Screen" width="300"/>
 
 ### Add Post Screen
-![Home Screen](./public/images-git/add-post.jpg)
+<img src="./public/images-git/add-post.jpg" alt="Add Post Screen" width="300"/>
 
 ### Update and Delete Post Screen
-![Home Screen](./public/images-git/crud-post.jpg)
+<img src="./public/images-git/crud-post.jpg" alt="Update and Delete Post Screen" width="300"/>
 
 ### Product Screen
-![Home Screen](./public/images-git/info-product.jpg)
+<img src="./public/images-git/info-product.jpg" alt="Product Screen" width="300"/>
 
 ### Add Product Screen
-![Home Screen](./public/images-git/add-product.jpg)
+<img src="./public/images-git/add-product.jpg" alt="Add Product Screen" width="300"/>
 
 ### My Product Screen
-![Home Screen](./public/images-git/my-product.jpg)
+<img src="./public/images-git/my-product.jpg" alt="My Product Screen" width="300"/>
 
 ### Cart Screen
-![Home Screen](./public/images-git/cart.jpg)
+<img src="./public/images-git/cart.jpg" alt="Cart Screen" width="300"/>
 
 ### Add Info Invoices Screen
-![Home Screen](./public/images-git/info-buy-product.jpg)
+<img src="./public/images-git/info-buy-product.jpg" alt="Add Info Invoices Screen" width="300"/>
 
 ### Check Info Invoices Screen
-![Home Screen](./public/images-git/accept-info.jpg)
+<img src="./public/images-git/accept-info.jpg" alt="Check Info Invoices Screen" width="300"/>
 
 ### History Invoices Screen
-![Home Screen](./public/images-git/history.jpg)
+<img src="./public/images-git/history.jpg" alt="History Invoices Screen" width="300"/>
 
 ### Personal Socials Media Screen
-![Home Screen](./public/images-git/personal.jpg)
+<img src="./public/images-git/personal.jpg" alt="Personal Socials Media Screen" width="300"/>
 
 ### Chat Screen
-![Home Screen](./public/images-git/list-inbox.jpg)
+<img src="./public/images-git/list-inbox.jpg" alt="Chat Screen" width="300"/>
 
 ### In Process Chat Screen
-![Home Screen](./public/images-git/chat.jpg)
+<img src="./public/images-git/chat.jpg" alt="In Process Chat Screen" width="300"/>
 
 ### Profile Screen
-![Profile Screen](./public/images-git/profile.jpg)
+<img src="./public/images-git/profile.jpg" alt="Profile Screen" width="300"/>
 
 ### Check Invoices Process Screen
-![Settings Screen](./public/images-git/check-invoice.jpg)
+<img src="./public/images-git/check-invoice.jpg" alt="Check Invoices Process Screen" width="300"/>
 
 That’s it.
 
