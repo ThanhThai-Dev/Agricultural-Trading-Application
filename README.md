@@ -1,4 +1,6 @@
 # Welcome to Agricultural Trading Application by Expo 👋
+This application aims to facilitate agricultural trading among farmers. By providing a platform where farmers can easily list, search, and manage their products, the app helps streamline the buying and selling process. It also includes features for communication and transaction management, ensuring a smooth and efficient trading experience. 🍅
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
