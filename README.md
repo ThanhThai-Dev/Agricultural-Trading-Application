@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to Agricultural Trading Application by Expo 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -39,64 +39,104 @@ This command will move the starter code to the **app-example** directory and cre
 
 Here are some screenshots of the application:
 ### Login by Google Screen
-<img src="./public/images-git/login.jpg" alt="Login by Google Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/login.jpg" alt="Login by Google Screen" width="300"/>
+</p>
 
 ### Home Screen
-<img src="./public/images-git/home.jpg" alt="Home Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/home.jpg" alt="Home Screen" width="300"/>
+</p>
 
 ### Category Screen
-<img src="./public/images-git/category.jpg" alt="Category Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/category.jpg" alt="Category Screen" width="300"/>
+</p>
 
 ### Search Result Screen
-<img src="./public/images-git/search-result.jpg" alt="Search Result Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/search-result.jpg" alt="Search Result Screen" width="300"/>
+</p>
 
 ### Favorite Screen
-<img src="./public/images-git/favorite.jpg" alt="Favorite Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/favorite.jpg" alt="Favorite Screen" width="300"/>
+</p>
 
 ### Socials Media Screen
-<img src="./public/images-git/socials-media.jpg" alt="Socials Media Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/socials-media.jpg" alt="Socials Media Screen" width="300"/>
+</p>
 
 ### Add Post Screen
-<img src="./public/images-git/add-post.jpg" alt="Add Post Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/add-post.jpg" alt="Add Post Screen" width="300"/>
+</p>
 
 ### Update and Delete Post Screen
-<img src="./public/images-git/crud-post.jpg" alt="Update and Delete Post Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/crud-post.jpg" alt="Update and Delete Post Screen" width="300"/>
+</p>
 
 ### Product Screen
-<img src="./public/images-git/info-product.jpg" alt="Product Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/info-product.jpg" alt="Product Screen" width="300"/>
+</p>
 
 ### Add Product Screen
-<img src="./public/images-git/add-product.jpg" alt="Add Product Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/add-product.jpg" alt="Add Product Screen" width="300"/>
+</p>
 
 ### My Product Screen
-<img src="./public/images-git/my-product.jpg" alt="My Product Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/my-product.jpg" alt="My Product Screen" width="300"/>
+</p>
 
 ### Cart Screen
-<img src="./public/images-git/cart.jpg" alt="Cart Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/cart.jpg" alt="Cart Screen" width="300"/>
+</p>
 
 ### Add Info Invoices Screen
-<img src="./public/images-git/info-buy-product.jpg" alt="Add Info Invoices Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/info-buy-product.jpg" alt="Add Info Invoices Screen" width="300"/>
+</p>
 
 ### Check Info Invoices Screen
-<img src="./public/images-git/accept-info.jpg" alt="Check Info Invoices Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/accept-info.jpg" alt="Check Info Invoices Screen" width="300"/>
+</p>
 
 ### History Invoices Screen
-<img src="./public/images-git/history.jpg" alt="History Invoices Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/history.jpg" alt="History Invoices Screen" width="300"/>
+</p>
 
 ### Personal Socials Media Screen
-<img src="./public/images-git/personal.jpg" alt="Personal Socials Media Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/personal.jpg" alt="Personal Socials Media Screen" width="300"/>
+</p>
 
 ### Chat Screen
-<img src="./public/images-git/list-inbox.jpg" alt="Chat Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/list-inbox.jpg" alt="Chat Screen" width="300"/>
+</p>
 
 ### In Process Chat Screen
-<img src="./public/images-git/chat.jpg" alt="In Process Chat Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/chat.jpg" alt="In Process Chat Screen" width="300"/>
+</p>
 
 ### Profile Screen
-<img src="./public/images-git/profile.jpg" alt="Profile Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/profile.jpg" alt="Profile Screen" width="300"/>
+</p>
 
 ### Check Invoices Process Screen
-<img src="./public/images-git/check-invoice.jpg" alt="Check Invoices Process Screen" width="300"/>
+<p align="center">
+   <img src="./public/images-git/check-invoice.jpg" alt="Check Invoices Process Screen" width="300"/>
+</p>
 
 That’s it.
 
