@@ -39,64 +39,64 @@ This command will move the starter code to the **app-example** directory and cre
 
 Here are some screenshots of the application:
 ### Login by Google Screen
-![Home Screen](./assets/images-git/login.jpg)
+![Home Screen](./public/images-git/login.jpg)
 
 ### Home Screen
-![Home Screen](./assets/images-git/home.jpg)
+![Home Screen](./public/images-git/home.jpg)
 
 ### Category Screen
-![Home Screen](./assets/images-git/category.jpg)
+![Home Screen](./public/images-git/category.jpg)
 
 ### Search Result Screen
-![Home Screen](./assets/images-git/search-result.jpg)
+![Home Screen](./public/images-git/search-result.jpg)
 
 ### Favorite Screen
-![Home Screen](./assets/images-git/favorite.jpg)
+![Home Screen](./public/images-git/favorite.jpg)
 
 ### Socials Media Screen
-![Home Screen](./assets/images-git/socials-media.jpg)
+![Home Screen](./public/images-git/socials-media.jpg)
 
 ### Add Post Screen
-![Home Screen](./assets/images-git/add-post.jpg)
+![Home Screen](./public/images-git/add-post.jpg)
 
 ### Update and Delete Post Screen
-![Home Screen](./assets/images-git/crud-post.jpg)
+![Home Screen](./public/images-git/crud-post.jpg)
 
 ### Product Screen
-![Home Screen](./assets/images-git/info-product.jpg)
+![Home Screen](./public/images-git/info-product.jpg)
 
 ### Add Product Screen
-![Home Screen](./assets/images-git/add-product.jpg)
+![Home Screen](./public/images-git/add-product.jpg)
 
 ### My Product Screen
-![Home Screen](./assets/images-git/my-product.jpg)
+![Home Screen](./public/images-git/my-product.jpg)
 
 ### Cart Screen
-![Home Screen](./assets/images-git/cart.jpg)
+![Home Screen](./public/images-git/cart.jpg)
 
 ### Add Info Invoices Screen
-![Home Screen](./assets/images-git/info-buy-product.jpg)
+![Home Screen](./public/images-git/info-buy-product.jpg)
 
 ### Check Info Invoices Screen
-![Home Screen](./assets/images-git/accept-info.jpg)
+![Home Screen](./public/images-git/accept-info.jpg)
 
 ### History Invoices Screen
-![Home Screen](./assets/images-git/history.jpg)
+![Home Screen](./public/images-git/history.jpg)
 
 ### Personal Socials Media Screen
-![Home Screen](./assets/images-git/personal.jpg)
+![Home Screen](./public/images-git/personal.jpg)
 
 ### Chat Screen
-![Home Screen](./assets/images-git/list-inbox.jpg)
+![Home Screen](./public/images-git/list-inbox.jpg)
 
 ### In Process Chat Screen
-![Home Screen](./assets/images-git/chat.jpg)
+![Home Screen](./public/images-git/chat.jpg)
 
 ### Profile Screen
-![Profile Screen](./assets/images-git/profile.jpg)
+![Profile Screen](./public/images-git/profile.jpg)
 
 ### Check Invoices Process Screen
-![Settings Screen](./assets/images-git/check-invoice.jpg)
+![Settings Screen](./public/images-git/check-invoice.jpg)
 
 That’s it.
 
